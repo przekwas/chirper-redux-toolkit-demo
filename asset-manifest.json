@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/chirper-redux-toolkit-demo/static/js/main.6721975c.chunk.js",
+    "main.js.map": "/chirper-redux-toolkit-demo/static/js/main.6721975c.chunk.js.map",
+    "runtime-main.js": "/chirper-redux-toolkit-demo/static/js/runtime-main.f7b1de2b.js",
+    "runtime-main.js.map": "/chirper-redux-toolkit-demo/static/js/runtime-main.f7b1de2b.js.map",
+    "static/js/2.94a93991.chunk.js": "/chirper-redux-toolkit-demo/static/js/2.94a93991.chunk.js",
+    "static/js/2.94a93991.chunk.js.map": "/chirper-redux-toolkit-demo/static/js/2.94a93991.chunk.js.map",
+    "index.html": "/chirper-redux-toolkit-demo/index.html",
+    "precache-manifest.0fb208146316f283fc8e1503238d97c7.js": "/chirper-redux-toolkit-demo/precache-manifest.0fb208146316f283fc8e1503238d97c7.js",
+    "service-worker.js": "/chirper-redux-toolkit-demo/service-worker.js",
+    "static/js/2.94a93991.chunk.js.LICENSE.txt": "/chirper-redux-toolkit-demo/static/js/2.94a93991.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f7b1de2b.js",
+    "static/js/2.94a93991.chunk.js",
+    "static/js/main.6721975c.chunk.js"
+  ]
+}
